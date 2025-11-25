@@ -7,7 +7,7 @@ This `data.txt` contains a list of 5000+ disallowed usernames to implement in yo
 You can import this list using jsDelivr for client-side applications:
 
 ```
-https://cdn.jsdelivr.net/gh/PullChicks/disallowed_usernames@main/data.txt
+https://cdn.jsdelivr.net/gh/LittleCeo/disallowed_usernames@main/data.txt
 ```
 
 This helps reduce bandwidth issues by using a CDN.
